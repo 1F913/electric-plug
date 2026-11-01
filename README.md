@@ -1,2 +1,2 @@
-# electric-plug
+# 🔌 electric-plug
 Charging price optimiser
